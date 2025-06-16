@@ -1,0 +1,28 @@
+/* App.css or Student.css */
+
+.student-form, .student-table {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+}
+
+.student-form h4,
+.student-table h4 {
+  font-weight: bold;
+  color: #343a40;
+}
+
+.student-form input,
+.student-table input,
+.student-table select {
+  border-radius: 8px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.btn {
+  border-radius: 6px;
+}
